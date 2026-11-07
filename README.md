@@ -22,7 +22,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quanganhptit030@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quanganhptit)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnhNQ-2A202600608)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaitoA1008)
 
 </div>
 
@@ -253,14 +253,14 @@ I'm a passionate AI Engineer and Information Technology student at PTIT, focused
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AnhNQ-2A202600608&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=00F2FE&line=00F2FE&point=FFFFFF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AnhNQ-2A202600608&theme=react-light&bg_color=FFFFFF&hide_border=true&area=true&color=0088CC&line=0088CC&point=005599" />
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnhNQ-2A202600608&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=00F2FE&line=00F2FE&point=FFFFFF" alt="Activity Graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=KaitoA1008&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=00F2FE&line=00F2FE&point=FFFFFF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=KaitoA1008&theme=react-light&bg_color=FFFFFF&hide_border=true&area=true&color=0088CC&line=0088CC&point=005599" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KaitoA1008&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=00F2FE&line=00F2FE&point=FFFFFF" alt="Activity Graph" />
   </picture>
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/AnhNQ-2A202600608/count.svg" alt="Visitor Counter" />
+  <img src="https://profile-counter.glitch.me/KaitoA1008/count.svg" alt="Visitor Counter" />
 </p>
